@@ -8,6 +8,7 @@ namespace aula04
         {
             int idade = 0;
 
+            //enquanto a idade for menor do que 18 anos
             while(idade < 18)
             {
                 Console.WriteLine("Informe a sua idade: ");
